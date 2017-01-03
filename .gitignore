@@ -1,4 +1,8 @@
+# latex
 **.aux
 **.log
 **.out
 **.pdf
+
+# nodejs
+node_modules
