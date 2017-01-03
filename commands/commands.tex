@@ -1,0 +1,15 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FILENAME: commands.tex
+% DESCRIPTION: default file for cv/cover generation
+% AUTHOR: vlnk
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% COVER SCRIPTS
+\directlua{dofile("commands/cover_scripts.lua")}
+
+\newcommand*\introduce[0]{\directlua{introduce()}}
+\newcommand*\conclude[0]{\directlua{conclude()}}
+
+\newcommand*\introduction[0]{\directlua{introduction()}}
+\newcommand*\conclusion[0]{\directlua{conclusion()}}
