@@ -1,0 +1,53 @@
+\newcommand{\cvsection}[3]{%
+  \par\addvspace{.11em}%
+  \phantomsection{}% reset the anchor for hyperrefs
+  \addcontentsline{toc}{section}{#3}%
+  \parbox[t]{\hintscolumnwidth}{\strut\raggedleft\raisebox{\baseletterheight}{%
+    \color{#1}\rule{4.26em}{0.43em}}
+  }%
+  \hspace{.47em}%
+  \parbox[t]{\maincolumnwidth}{\strut
+    \fontspec{#2}[%
+      Path = fonts/,
+      Extension = .ttf
+    ]%
+    \Large\textcolor{#1}{#3}
+  }%
+  \par\nobreak\addvspace{.05em}\@afterheading}% to avoid a pagebreak after the heading
+
+\newcommand{\cvsubsection}[3]{%
+  \par\addvspace{.11em}%
+  \phantomsection{}% reset the anchor for hyperrefs
+  \addcontentsline{toc}{section}{#3}%
+  \parbox[t]{\hintscolumnwidth}{\strut\raggedleft\raisebox{\baseletterheight}{%
+    \color{#1}\rule{2.84em}{0.24em}}
+  }%
+  \hspace{.47em}%
+  \parbox[t]{\maincolumnwidth}{\strut
+    \fontspec{#2}[%
+      Path = fonts/,
+      Extension = .ttf
+    ]%
+    \large\textcolor{#1}{#3}
+  }%
+  \par\nobreak\addvspace{.05em}\@afterheading}% to avoid a pagebreak after the heading
+
+  \newenvironment{cvtable}
+    {\tabular{@{\hspace{\hintscolumnwidth}}p{2.5ex}p{37em}}}
+    {\endtabular\vspace{.25em}}
+
+\newcommand{\cvkeyline}[3]{%
+  \tcbset{%
+  	top=0em,
+  	left=0em,
+  	right=0em,
+  	bottom=0em,
+  	boxrule=0em,
+  	colback=#1,
+  	colupper=white,
+  	nobeforeafter,
+  	center title
+  }
+  \raisebox{.08em}{\tcbox[tcbox raise base]{\footnotesize\bfseries #2}} #3
+  \vspace{.25em}
+}

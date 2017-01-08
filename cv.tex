@@ -4,15 +4,13 @@
 % AUTHOR: vlnk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[11pt,letterpaper,roman]{moderncv}
+\documentclass[11pt,letterpaper,sans]{moderncv}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% PACKAGES
+% CONFIGURATIONS
 \input{packages/packages}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% SCRIPTS
-\input{commands/commands}
+\input{fonts/fonts}
+\input{packages/commands}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % HEADER
@@ -21,12 +19,7 @@
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% LOAD CONFIGURATION
-\definecolor{statecolor}{HTML}{5F7DC2}
-\definecolor{techcolor}{HTML}{D21959}
-\definecolor{owncolor}{HTML}{F4775E}
-\definecolor{espcolor}{HTML}{F3CA5A}
-\definecolor{educolor}{HTML}{8A49C2}
+% LOAD COLORS
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % CURRICULUM VITAE
@@ -38,15 +31,17 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % EXPERIENCE
-%\input{contents/en/exp}
+\input{contents/en/exp}
+
+\pagebreak
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % EDUCATION
-%\input{contents/en/edu}
+\input{contents/en/edu}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % SKILLS
-%\input{contents/en/tech}
+\input{contents/en/tech}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % COVER LETTER

@@ -1,8 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % FONT CONFIGURATION
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
+\usepackage{fontenc}
+\usepackage{fontspec}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % LANGUAGE CONFIGURATION
@@ -32,13 +31,22 @@
 \moderncvcolor{black}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TIKZ
+% COLORS
 \usepackage{xcolor}
+\input{packages/colors}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TIKZ
 \usepackage{tikz} %TIKZ package required for draw graphics
 \usetikzlibrary{shapes,arrows,patterns}
 \usepackage{pgfplots}
 \usepgfplotslibrary{fillbetween}
 \usepackage{pgfopts}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TCOLORBOX
+\usepackage{tcolorbox}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % LANG PIE-CHART SETUP
