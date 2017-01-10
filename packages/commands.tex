@@ -32,22 +32,45 @@
   }%
   \par\nobreak\addvspace{.05em}\@afterheading}% to avoid a pagebreak after the heading
 
-  \newenvironment{cvtable}
-    {\tabular{@{\hspace{\hintscolumnwidth}}p{2.5ex}p{37em}}}
+  \newenvironment{cvtable}[1]
+    {\tabular{p{#1}p{37em}}}
     {\endtabular\vspace{.25em}}
 
+  \newenvironment{cvstate}
+    {\begin{adjustwidth}{\hintscolumnwidth}{0em}}
+    {\end{adjustwidth}}
+
 \newcommand{\cvkeyline}[3]{%
-  \tcbset{%
-  	top=0em,
-  	left=0em,
-  	right=0em,
-  	bottom=0em,
-  	boxrule=0em,
-  	colback=#1,
-  	colupper=white,
-  	nobeforeafter,
-  	center title
-  }
-  \raisebox{.08em}{\tcbox[tcbox raise base]{\footnotesize\bfseries #2}} #3
+    \raisebox{-.3em}{\tcbox[
+    	top=0em,
+    	left=0em,
+    	right=0em,
+    	bottom=0em,
+    	boxrule=0em,
+    	colback=#1,
+    	colupper=white,
+    	nobeforeafter,
+    	center title
+    ]{\footnotesize\bfseries #2}} #3
   \vspace{.25em}
 }
+
+\newcommand{\cvicon}[2]{%
+  \textcolor{#1}{#2}%
+}
+
+\newcommand{\cvtag}[2]{%
+  \raisebox{-.3em}{\tcbox[
+    top=0em,
+    left=0em,
+    right=0em,
+    bottom=0em,
+    boxrule=0em,
+    colback=#1,
+    colupper=white,
+    nobeforeafter,
+    center title
+  ]{\footnotesize\bfseries #2}}
+}
+\newcommand{\csharp}{{\settoheight{\dimen0}{C}C\kern-.05em \resizebox{!}{\dimen0}{\raisebox{\depth}{\#}}}}
+\newcommand\cplusplus{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\relsize{-3}{\textbf{++}}}}
