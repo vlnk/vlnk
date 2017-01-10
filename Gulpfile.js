@@ -25,6 +25,6 @@ var texOutput = [
   '*.toc'
 ];
 
-Gulp.task('clean', ['tex'], function() {
+Gulp.task('clean', function() {
   Gulp.src(texOutput).pipe(clean({force: true}))
 });
