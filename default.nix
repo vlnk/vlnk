@@ -11,7 +11,8 @@ stdenv.mkDerivation {
         scheme-medium
         moderncv # https://github.com/xdanaux/moderncv
         changepage # https://www.ctan.org/pkg/changepage
-        fontawesome # https://github.com/xdanaux/fontawesome-latex
+        fontawesome5 # https://github.com/xdanaux/fontawesome-latex
+        academicons # https://jpswalsh.github.io/academicons/
         tcolorbox # https://www.ctan.org/pkg/tcolorbox
         environ # https://www.ctan.org/pkg/environ
         relsize # https://www.ctan.org/pkg/relsize

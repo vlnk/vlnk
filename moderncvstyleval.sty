@@ -88,8 +88,8 @@
   \setlength{\parskip}{0\p@}}
 
 % optional maketitle width to force a certain width (if set to 0pt, the width is calculated automatically)
-\newlength{\makecvtitlenamewidth}
-\setlength{\makecvtitlenamewidth}{0pt}% dummy value
+\newlength{\makeclassiccvtitlenamewidth}
+\setlength{\makeclassiccvtitlenamewidth}{0pt}% dummy value
 \renewcommand*{\makecvtitle}{%
   % recompute lengths (in case we are switching from letter to resume, or vice versa)
   \recomputecvlengths%
@@ -129,16 +129,16 @@
   % name and title
   \newlength{\makecvtitledetailswidth}\settowidth{\makecvtitledetailswidth}{\usebox{\makecvtitledetailsbox}}%
   \newlength{\makecvtitlepicturewidth}\settowidth{\makecvtitlepicturewidth}{\usebox{\makecvtitlepicturebox}}%
-  \ifthenelse{\lengthtest{\makecvtitlenamewidth=0pt}}% check for dummy value (equivalent to \ifdim\makecvtitlenamewidth=0pt)
-    {\setlength{\makecvtitlenamewidth}{\textwidth-\makecvtitledetailswidth-\makecvtitlepicturewidth}}%
+  \ifthenelse{\lengthtest{\makeclassiccvtitlenamewidth=0pt}}% check for dummy value (equivalent to \ifdim\makeclassiccvtitlenamewidth=0pt)
+    {\setlength{\makeclassiccvtitlenamewidth}{\textwidth-\makecvtitledetailswidth-\makecvtitlepicturewidth}}%
     {}%
-  \begin{minipage}[b]{\makecvtitlenamewidth}%
+  \begin{minipage}[b]{\makeclassiccvtitlenamewidth}%
     \namestyle{\@firstname\ \@lastname}%
     \ifthenelse{\equal{\@title}{}}{}{\\[1.25em]\titlestyle{\@title}}%
   \end{minipage}%
   \hfill%
   % optional detailed information (rendering)
-  \llap{\usebox{\makecvtitledetailsbox}}% \llap is used to suppress the width of the box, allowing overlap if the value of makecvtitlenamewidth is forced
+  \llap{\usebox{\makecvtitledetailsbox}}% \llap is used to suppress the width of the box, allowing overlap if the value of makeclassiccvtitlenamewidth is forced
   % optional photo (rendering)
   \usebox{\makecvtitlepicturebox}\\[0.1em] %SPACE BETWEEN TITLE AND SECTION !
   % optional quote
