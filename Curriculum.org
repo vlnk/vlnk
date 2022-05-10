@@ -4,5 +4,14 @@
 
 #+startup: content indent
 #+export_file_name: README.md
+#+options: toc:nil todo:nil tags:nil
 
 👋🏼 Hi, I'm vlnk!
+
+* Tasks :noexport:
+** TODO Automatic mirroring
+on
+- github
+- gitlab
+** DONE Import github key
+CLOSED: [2022-05-10 Tue 19:41]
