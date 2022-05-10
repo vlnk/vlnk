@@ -1,0 +1,8 @@
+ # Local Variables:
+ # after-save-hook: org-md-export-to-markdown
+ # END:
+
+#+startup: content indent
+#+export_file_name: README.md
+
+👋🏼 Hi, I'm vlnk!
