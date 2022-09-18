@@ -16,3 +16,11 @@ watch-en:
 
 .PHONY: watch-all
 watch-all: watch-fr watch-en
+
+.PHONY: git-remote
+git-remote:
+	./tasks/remotes.sh
+
+.PHONY: push-all
+git-push:
+	git push --mirror
