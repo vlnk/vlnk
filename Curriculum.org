@@ -97,3 +97,7 @@ This seems to haven't been released in the org-mode master branch!
 ** TODO update latex CV
 - [ ] use org-mode wrapper
 - [ ] update templates
+** TODO Add <details> disclosure element
+- [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details]]
+- [[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary]]
+- https://html.spec.whatwg.org/#interactive-elements
