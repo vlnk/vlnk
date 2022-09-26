@@ -1,7 +1,7 @@
 👋🏼 Hi, I'm vlnk!
 
 
-# 🧑‍💼 Current roles
+# ‍💼 Current roles
 
 
 ## **Web Services Consultant** at Numériphare
@@ -9,9 +9,9 @@
 I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects. **You can send me a request in order to schedule a consultation upon your web services**.
 
 
-## **Product Owner** at The Society for Arts and Technology
+## **Product Owner** at [The Society for Arts and Technology](https://sat.qc.ca/)
 
-I am leading the future of the software suite of the telepresence and haptic systems at SAT. I use the **agility** principles in order to lead the release and the maintainance of our software ecosystem.
+I am leading the future of the software suite of [the telepresence scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) and [the haptic floor](https://gitlab.com/sat-mtl/tools/haptic-floor) at SAT. I use the **agility** principles in order to lead the release and the maintainance of our software ecosystem.
 
 
 # 📇 Keep in touch
@@ -40,7 +40,7 @@ I have studied in computer engineering because I find a great interest in develo
 -   **Ingénieur diplômé** at the Public Engineering School in Computer Science (France)
 
 
-# 👨‍💻 Past experiences
+# ‍💻 Past experiences
 
 
 ## **Lead Front-End Developer** at [The Society for Arts and Technology](https://sat.qc.ca/)

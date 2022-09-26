@@ -11,11 +11,11 @@
 :export_file_name: README.md
 :END:
 👋🏼 Hi, I'm vlnk!
-** 🧑‍💼 Current roles
+** ‍💼 Current roles
 *** *Web Services Consultant* at Numériphare
 I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects. *You can send me a request in order to schedule a consultation upon your web services*.
-*** *Product Owner* at The Society for Arts and Technology
-I am leading the future of the software suite of the telepresence and haptic systems at SAT. I use the *agility* principles in order to lead the release and the maintainance of our software ecosystem.
+*** *Product Owner* at [[https://sat.qc.ca/][The Society for Arts and Technology]]
+I am leading the future of the software suite of [[https://gitlab.com/sat-mtl/tools/scenic/scenic][the telepresence scenic]] and [[https://gitlab.com/sat-mtl/tools/haptic-floor][the haptic floor]] at SAT. I use the *agility* principles in order to lead the release and the maintainance of our software ecosystem.
 
 ** 📇 Keep in touch
 You can reach me by mail:
@@ -35,7 +35,7 @@ I have studied in computer engineering because I find a great interest in develo
 - *Master's Degree in Computing* at the University of Québec in Chicoutimi (Canada)
 - *Ingénieur diplômé* at the Public Engineering School in Computer Science (France)
 
-** 👨‍💻 Past experiences
+** ‍💻 Past experiences
 *** *Lead Front-End Developer* at [[https://sat.qc.ca/][The Society for Arts and Technology]]
 - I developed /from scratch/ the new version of the [[https://gitlab.com/sat-mtl/tools/scenic/scenic][Scenic]] interface that is contributing to [[https://telepresence-scenic.ca/][the telepresence ecosystem]]. Also, I contributed to its back-end called [[https://gitlab.com/sat-mtl/tools/switcher][~Switcher~]] and I developped library of [[https://gitlab.com/sat-mtl/tools/ui-components][~UI Components~]] for all the web Front-End developed at the SAT.
 - I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools. In addition, I was *Co-Director* in interim of the departement during few months.
