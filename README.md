@@ -18,8 +18,7 @@ I am leading the future of the software suite of [the telepresence scenic](https
 
 You can reach me by mail:
 
--   **email**: allo@numeriphare.com
--   **note**: I am not interested on buying viagra yet!
+-   **email**: allo[at]numeriphare[dot]com
 
 Find me on the following platfoms:
 

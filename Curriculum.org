@@ -19,8 +19,7 @@ I am leading the future of the software suite of [[https://gitlab.com/sat-mtl/to
 
 ** 📇 Keep in touch
 You can reach me by mail:
-- *email*: allo@numeriphare.com
-- *note*: I am not interested on buying viagra yet!
+- *email*: allo[at]numeriphare[dot]com
 
 Find me on the following platfoms:
 - [[https://github.com/vlnk][github]]
