@@ -43,21 +43,25 @@ I have studied in computer engineering because I find a great interest in develo
 # 👨‍💻 Past experiences
 
 
-## **Lead Front-End Developer** at The Society for Arts and Technology
+## **Lead Front-End Developer** at [The Society for Arts and Technology](https://sat.qc.ca/)
 
--   I developed *from scratch* the new version of the Scenic interface that is contributing to the telepresence ecosystem. Also, I contributed to its back-end called **Switcher** and I developped a **UI Component** library for all the web Front-End developed at the SAT.
+-   I developed *from scratch* the new version of the [Scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) interface that is contributing to [the telepresence ecosystem](https://telepresence-scenic.ca/). Also, I contributed to its back-end called [`Switcher`](https://gitlab.com/sat-mtl/tools/switcher) and I developped library of [`UI Components`](https://gitlab.com/sat-mtl/tools/ui-components) for all the web Front-End developed at the SAT.
 -   I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools. In addition, I was **Co-Director** in interim of the departement during few months.
 
 
-## **Front-End Developer** at Trisotech
+## **Front-End Developer** at [Trisotech](https://www.trisotech.com/)
 
--   I help the development of new features on their **Digital Modeling Suite** by developing some Front-End parts with **jQuery** and Back-End parts with **Java**.
-
-
-## **Developer** at Butor
+-   I help the development of new features on their [**Digital Modeling Suite**](https://www.trisotech.com/digital-modeling-suite/) by developing some Front-End parts with [`jQuery`](https://jquery.com/) and Back-End parts with **Java**.
 
 
-## **Developer Intern** at Infineon
+## **Developer** at [Butor](http://www.butor.com)
+
+-   I learned a lot by documenting all the open-sourced `Javascript` source with [`JSDoc`](https://jsdoc.app/) and by improving and analysing the `Java` back-end with my [UML](https://www.uml-diagrams.org/) knowledge.
+
+
+## **Developer Intern** at [Infineon](https://www.infineon.com/)
+
+-   I experimented [MVVM patterns](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) with a data viewer written in [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
 
 
 # 📈 Technology levels
@@ -67,15 +71,15 @@ I enumerate all tools I worked with in profesionnal contexts but as I am very cu
 
 ## Expert
 
--   🕸 Web ecosystem with `Javascript`, `HTML` and `CSS` languages including `React`, `NodeJS` and `Webpack` frameworks.
--   🐋 `Docker` tooling suite in order to isolate all software environments.
--   🚀 `Gitlab` environment with the **Continuous Integration** concept in order to deliver my new developments quickly in an **agility** context.
+-   🕸 Web ecosystem with [`Javascript`](https://www.javascript.com/), [`HTML`](https://html.spec.whatwg.org/multipage/) and [`CSS`](https://www.w3.org/Style/CSS/) languages including [`React`](https://reactjs.org/), [`NodeJS`](https://nodejs.org) and [`Webpack`](https://webpack.js.org/) frameworks.
+-   🐋 [`Docker`](https://www.docker.com/) tooling suite in order to isolate all software environments.
+-   🚀 [`Gitlab`](https://about.gitlab.com/) environment with the **Continuous Integration** concept in order to deliver my new developments quickly in an **agility** context.
 
 
 ## Mastering
 
--   🐧 `Linux` environment as I know a lot of tools in order to be eficient on such systems. I like scripting my stuff with `Bash` when I feel it will improve my developer life and I can adapt this experience for `MacOS` systems.
--   🐍 I am mastering the `Python` language in a lot of contexts: I am developing with my team a `Socket.IO` back-end with it and I am often scripting with it for my personal projects.
+-   🐧 [`Linux`](https://kernel.org/) environment as I know a lot of tools in order to be eficient on such systems. I like scripting my stuff with [`Bash`](https://www.gnu.org/software/bash/) when I feel it will improve my developer life and I can adapt this experience for [`MacOS`](https://www.apple.com/ca/macos) systems.
+-   🐍 I am mastering the [`Python`](https://www.python.org/) language in a lot of contexts: I am developing with my team a [`Socket.IO`](https://socket.io/) back-end with it and I am often scripting with it for my personal projects.
 
 
 ## Intermediate

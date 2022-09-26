@@ -4,18 +4,20 @@
  # END:
 
 #+startup: content indent
-#+export_file_name: README.md
 #+options: toc:nil todo:nil tags:nil
 
+* English version
+:PROPERTIES:
+:export_file_name: README.md
+:END:
 👋🏼 Hi, I'm vlnk!
-
-* 🧑‍💼 Current roles
-** *Web Services Consultant* at Numériphare
+** 🧑‍💼 Current roles
+*** *Web Services Consultant* at Numériphare
 I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects. *You can send me a request in order to schedule a consultation upon your web services*.
-** *Product Owner* at The Society for Arts and Technology
+*** *Product Owner* at The Society for Arts and Technology
 I am leading the future of the software suite of the telepresence and haptic systems at SAT. I use the *agility* principles in order to lead the release and the maintainance of our software ecosystem.
 
-* 📇 Keep in touch
+** 📇 Keep in touch
 You can reach me by mail:
 - *email*: allo@numeriphare.com
 - *note*: I am not interested on buying viagra yet!
@@ -26,35 +28,36 @@ Find me on the following platfoms:
 - [[https://sr.ht/~vlnk/][sourcehut]]
 - [[https://www.linkedin.com/in/valrnt/][linkedin]]
 
-* 🤙🏻 About myself
+** 🤙🏻 About myself
 I have studied in computer engineering because I find a great interest in development creativity and computing projects. I lead a small personal watch about new techniques of programming and software innovation. In addition of a fond fascination of the independent cinema and the electronic music, I contribute to a development team during my free time and I try to do my best for making music and video. As far as I have a good health (and I do all to maintain it), I am motivated, a little bit perfectionist and a very bad joker.
 
-* 🏫 Diplomas
+** 🏫 Diplomas
 - *Master's Degree in Computing* at the University of Québec in Chicoutimi (Canada)
 - *Ingénieur diplômé* at the Public Engineering School in Computer Science (France)
 
-* 👨‍💻 Past experiences
-** *Lead Front-End Developer* at The Society for Arts and Technology
-- I developed /from scratch/ the new version of the Scenic interface that is contributing to the telepresence ecosystem. Also, I contributed to its back-end called *Switcher* and I developped a *UI Component* library for all the web Front-End developed at the SAT.
+** 👨‍💻 Past experiences
+*** *Lead Front-End Developer* at [[https://sat.qc.ca/][The Society for Arts and Technology]]
+- I developed /from scratch/ the new version of the [[https://gitlab.com/sat-mtl/tools/scenic/scenic][Scenic]] interface that is contributing to [[https://telepresence-scenic.ca/][the telepresence ecosystem]]. Also, I contributed to its back-end called [[https://gitlab.com/sat-mtl/tools/switcher][~Switcher~]] and I developped library of [[https://gitlab.com/sat-mtl/tools/ui-components][~UI Components~]] for all the web Front-End developed at the SAT.
 - I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools. In addition, I was *Co-Director* in interim of the departement during few months.
-** *Front-End Developer* at Trisotech
-- I help the development of new features on their *Digital Modeling Suite* by developing some Front-End parts with *jQuery* and Back-End parts with *Java*.
-** *Developer* at Butor
-** *Developer Intern* at Infineon
-
-* 📈 Technology levels
+*** *Front-End Developer* at [[https://www.trisotech.com/][Trisotech]]
+- I help the development of new features on their [[https://www.trisotech.com/digital-modeling-suite/][*Digital Modeling Suite*]] by developing some Front-End parts with [[https://jquery.com/][~jQuery~]] and Back-End parts with *Java*.
+*** *Developer* at [[http://www.butor.com][Butor]]
+- I learned a lot by documenting all the open-sourced ~Javascript~ source with [[https://jsdoc.app/][~JSDoc~]] and by improving and analysing the ~Java~ back-end with my [[https://www.uml-diagrams.org/][UML]] knowledge.
+*** *Developer Intern* at [[https://www.infineon.com/][Infineon]]
+- I experimented [[https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm][MVVM patterns]] with a data viewer written in [[https://dotnet.microsoft.com/en-us/languages/csharp][C#]].
+** 📈 Technology levels
 I enumerate all tools I worked with in profesionnal contexts but as I am very curious in all kinds of technologies I am am very motivated to discover and master new tools. I have a strong capacity of *adaptation*.
-** Expert
-- 🕸 Web ecosystem with ~Javascript~, ~HTML~ and ~CSS~ languages including ~React~, ~NodeJS~ and ~Webpack~ frameworks.
-- 🐋 ~Docker~ tooling suite in order to isolate all software environments.
-- 🚀 ~Gitlab~ environment with the *Continuous Integration* concept in order to deliver my new developments quickly in an *agility* context.
-** Mastering
-- 🐧 ~Linux~ environment as I know a lot of tools in order to be eficient on such systems. I like scripting my stuff with ~Bash~ when I feel it will improve my developer life and I can adapt this experience for ~MacOS~ systems.
-- 🐍 I am mastering the ~Python~ language in a lot of contexts: I am developing with my team a ~Socket.IO~ back-end with it and I am often scripting with it for my personal projects.
-** Intermediate
+*** Expert
+- 🕸 Web ecosystem with [[https://www.javascript.com/][~Javascript~]], [[https://html.spec.whatwg.org/multipage/][~HTML~]] and [[https://www.w3.org/Style/CSS/][~CSS~]] languages including [[https://reactjs.org/][~React~]], [[https://nodejs.org][~NodeJS~]] and [[https://webpack.js.org/][~Webpack~]] frameworks.
+- 🐋 [[https://www.docker.com/][~Docker~]] tooling suite in order to isolate all software environments.
+- 🚀 [[https://about.gitlab.com/][~Gitlab~]] environment with the *Continuous Integration* concept in order to deliver my new developments quickly in an *agility* context.
+*** Mastering
+- 🐧 [[https://kernel.org/][~Linux~]] environment as I know a lot of tools in order to be eficient on such systems. I like scripting my stuff with [[https://www.gnu.org/software/bash/][~Bash~]] when I feel it will improve my developer life and I can adapt this experience for [[https://www.apple.com/ca/macos][~MacOS~]] systems.
+- 🐍 I am mastering the [[https://www.python.org/][~Python~]] language in a lot of contexts: I am developing with my team a [[https://socket.io/][~Socket.IO~]] back-end with it and I am often scripting with it for my personal projects.
+*** Intermediate
 - 🤖 I use and approve [[https://en.cppreference.com/w/][the ~C~ and ~C++~]] code in my day-to-day at SAT.
 - ☄ [[https://www.java.com/en/][~Java~]] and [[https://dotnet.microsoft.com/en-us/][~C#~]] environments as I used to work with them during my past experiences.
-** Autodidact
+*** Autodidact
 - 🐄 [[https://www.gnu.org/software/emacs/][~GNU Emacs~]] is my favorite text editor and I use the [[https://orgmode.org/][~org-mode~]] tool for all my projects. _Don't be afraid_, I can also use [[https://code.visualstudio.com/][~Visual Studio Code~]] or [[https://developer.android.com/studio/][~Android Studio~]] if the situation needs it.
 - 🦀 I developped some personnal projects with [[https://www.rust-lang.org/][~Rust~]] and I am very interested by digging deeper in developments with this language.
 - 🌺 The functionnal languages are my secret developer's hobby such as [[https://clojurescript.org/][~Closure Script~]] and [[http://www.call-cc.org/][~Scheme~]].
