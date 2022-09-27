@@ -6,16 +6,18 @@
 #+startup: content indent
 #+options: toc:nil todo:nil tags:nil
 
-* English version
-:PROPERTIES:
-:export_file_name: README.md
-:END:
-👋🏼 Hi, I'm vlnk!
+* 👋🏼 Hi, I'm vlnk!                                                       :en:
 ** ‍💼 Current roles
 *** *Web Services Consultant* at Numériphare
-I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects. *You can send me a request in order to schedule a consultation upon your web services*.
+I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects.
+
+*You can send me a request in order to schedule a consultation upon your web services*.
+
 *** *Product Owner* at [[https://sat.qc.ca/][The Society for Arts and Technology]]
-I am leading the future of the software suite of [[https://gitlab.com/sat-mtl/tools/scenic/scenic][the telepresence scenic]] and [[https://gitlab.com/sat-mtl/tools/haptic-floor][the haptic floor]] at SAT. I use the *agility* principles in order to lead the release and the maintainance of our software ecosystem.
+- I am contributing to the future of [[https://gitlab.com/sat-mtl/tools/scenic/scenic][the telepresence scenic]] and [[https://gitlab.com/sat-mtl/tools/haptic-floor][the haptic floor]] at SAT.
+- I use the *agility* principles in order to lead the release and the maintainance of our software ecosystem.
+- I micro-managed the development tasks from [[https://about.gitlab.com/][~Gitlab~]].
+- I help to architecture all software interactions.
 
 ** 📇 Keep in touch
 You can reach me by mail:
@@ -36,31 +38,35 @@ I have studied in computer engineering because I find a great interest in develo
 
 ** ‍💻 Past experiences
 *** *Lead Front-End Developer* at [[https://sat.qc.ca/][The Society for Arts and Technology]]
-- I developed /from scratch/ the new version of the [[https://gitlab.com/sat-mtl/tools/scenic/scenic][Scenic]] interface that is contributing to [[https://telepresence-scenic.ca/][the telepresence ecosystem]]. Also, I contributed to its back-end called [[https://gitlab.com/sat-mtl/tools/switcher][~Switcher~]] and I developped library of [[https://gitlab.com/sat-mtl/tools/ui-components][~UI Components~]] for all the web Front-End developed at the SAT.
-- I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools. In addition, I was *Co-Director* in interim of the departement during few months.
+- I developed /from scratch/ the new version of the [[https://gitlab.com/sat-mtl/tools/scenic/scenic][Scenic]] interface that is contributing to [[https://telepresence-scenic.ca/][the telepresence ecosystem]].
+- I contributed to its back-end called [[https://gitlab.com/sat-mtl/tools/switcher][~Switcher~]] and I developped library of [[https://gitlab.com/sat-mtl/tools/ui-components][~UI Components~]] for all the web Front-End developed at the SAT.
+- I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools.
+- In addition, I was *Co-Director* in interim of the departement during few months.
 *** *Front-End Developer* at [[https://www.trisotech.com/][Trisotech]]
-- I help the development of new features on their [[https://www.trisotech.com/digital-modeling-suite/][*Digital Modeling Suite*]] by developing some Front-End parts with [[https://jquery.com/][~jQuery~]] and Back-End parts with *Java*.
+- I developped new features on the [[https://www.trisotech.com/digital-modeling-suite/][*Digital Modeling Suite*]] by developing some Front-End parts with [[https://jquery.com/][~jQuery~]]
+- I also contributed to Back-End parts with *Java*.
 *** *Developer* at [[http://www.butor.com][Butor]]
-- I learned a lot by documenting all the open-sourced ~Javascript~ source with [[https://jsdoc.app/][~JSDoc~]] and by improving and analysing the ~Java~ back-end with my [[https://www.uml-diagrams.org/][UML]] knowledge.
+- I documented all the open-sourced ~Javascript~ parts with [[https://jsdoc.app/][~JSDoc~]].
+- I improved and analysed the ~Java~ back-end with my [[https://www.uml-diagrams.org/][UML]] knowledge.
 *** *Developer Intern* at [[https://www.infineon.com/][Infineon]]
 - I experimented [[https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm][MVVM patterns]] with a data viewer written in [[https://dotnet.microsoft.com/en-us/languages/csharp][C#]].
 ** 📈 Technology levels
 I enumerate all tools I worked with in profesionnal contexts but as I am very curious in all kinds of technologies I am am very motivated to discover and master new tools. I have a strong capacity of *adaptation*.
 *** Expert
-- 🕸 Web ecosystem with [[https://www.javascript.com/][~Javascript~]], [[https://html.spec.whatwg.org/multipage/][~HTML~]] and [[https://www.w3.org/Style/CSS/][~CSS~]] languages including [[https://reactjs.org/][~React~]], [[https://nodejs.org][~NodeJS~]] and [[https://webpack.js.org/][~Webpack~]] frameworks.
-- 🐋 [[https://www.docker.com/][~Docker~]] tooling suite in order to isolate all software environments.
-- 🚀 [[https://about.gitlab.com/][~Gitlab~]] environment with the *Continuous Integration* concept in order to deliver my new developments quickly in an *agility* context.
+- 🕸 [[https://www.javascript.com/][~Javascript~]], [[https://html.spec.whatwg.org/multipage/][~HTML~]] and [[https://www.w3.org/Style/CSS/][~CSS~]] languages including [[https://reactjs.org/][~React~]], [[https://nodejs.org][~NodeJS~]] and [[https://webpack.js.org/][~Webpack~]] frameworks.
 *** Mastering
-- 🐧 [[https://kernel.org/][~Linux~]] environment as I know a lot of tools in order to be eficient on such systems. I like scripting my stuff with [[https://www.gnu.org/software/bash/][~Bash~]] when I feel it will improve my developer life and I can adapt this experience for [[https://www.apple.com/ca/macos][~MacOS~]] systems.
-- 🐍 I am mastering the [[https://www.python.org/][~Python~]] language in a lot of contexts: I am developing with my team a [[https://socket.io/][~Socket.IO~]] back-end with it and I am often scripting with it for my personal projects.
+- 🐋 the [[https://www.docker.com/][~Docker~]] environment.
+- 🚀 the [[https://about.gitlab.com/][~Gitlab~]] platform.
+- 🐧 the [[https://kernel.org/][~Linux~]] operating system with the [[https://www.gnu.org/software/bash/][~Bash~]] scripting. I also use [[https://www.apple.com/ca/macos][~MacOS~]] systems.
+- 🐍 the [[https://www.python.org/][~Python~]] language in a lot of contexts: from back-end services to scripting projects.
 *** Intermediate
-- 🤖 I use and approve [[https://en.cppreference.com/w/][the ~C~ and ~C++~]] code in my day-to-day at SAT.
-- ☄ [[https://www.java.com/en/][~Java~]] and [[https://dotnet.microsoft.com/en-us/][~C#~]] environments as I used to work with them during my past experiences.
+- 🤖 [[https://en.cppreference.com/w/][the ~C~ and ~C++~]] languages.
+- ☄ [[https://www.java.com/en/][~Java~]] and [[https://dotnet.microsoft.com/en-us/][~C#~]] environments.
 *** Autodidact
-- 🐄 [[https://www.gnu.org/software/emacs/][~GNU Emacs~]] is my favorite text editor and I use the [[https://orgmode.org/][~org-mode~]] tool for all my projects. _Don't be afraid_, I can also use [[https://code.visualstudio.com/][~Visual Studio Code~]] or [[https://developer.android.com/studio/][~Android Studio~]] if the situation needs it.
-- 🦀 I developped some personnal projects with [[https://www.rust-lang.org/][~Rust~]] and I am very interested by digging deeper in developments with this language.
-- 🌺 The functionnal languages are my secret developer's hobby such as [[https://clojurescript.org/][~Closure Script~]] and [[http://www.call-cc.org/][~Scheme~]].
-- 🏗 [[https://nixos.org/][~NixOS~]] is currently installed on my laptop and I developped a lot of tricks with its environment in order to increase my day-to-day productivity.
+- 🐄 [[https://www.gnu.org/software/emacs/][~GNU Emacs~]], [[https://code.visualstudio.com/][~Visual Studio Code~]] and [[https://developer.android.com/studio/][~Android Studio~]] editors.
+- 🦀 the [[https://www.rust-lang.org/][~Rust~]] language.
+- 🌺 functionnal languages such as [[https://clojurescript.org/][~Closure Script~]] and [[http://www.call-cc.org/][~Scheme~]].
+- 🏗 the [[https://nixos.org/][~NixOS~]] operating system.
 * Tasks :noexport:
 ** DONE Automatic mirroring
 CLOSED: [2022-09-18 Sun 01:05]
