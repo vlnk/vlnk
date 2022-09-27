@@ -18,7 +18,7 @@
       :publishing-directory "public/en"
       :body-only t
       :with-title nil
-      :headline-levels 2
+      :headline-levels 3
       :select-tags ("en")
       :publishing-function org-md-publish-to-md)
      ("cv-html-en"
@@ -28,7 +28,7 @@
        :body-only t
        :section-numbers nil
        :with-title nil
-       :headline-levels 2
+       :headline-levels 3
        :select-tags ("en")
        :publishing-function org-html-publish-to-html)
      ("cv"

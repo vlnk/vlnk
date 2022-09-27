@@ -4,18 +4,20 @@
 
 ## ‍💼 Current roles
 
-1.  **Web Services Consultant** at Numériphare
 
-    I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects.
-    
-    **You can send me a request in order to schedule a consultation upon your web services**.
+### **Web Services Consultant** at Numériphare
 
-2.  **Product Owner** at [The Society for Arts and Technology](https://sat.qc.ca/)
+I am providing my services for all kinds of developments around web technologies: I provide consultation as software architect, give fromation in order to develop your autonomy with your suite and I can lead the development of you web projects.
 
-    -   I am contributing to the future of [the telepresence scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) and [the haptic floor](https://gitlab.com/sat-mtl/tools/haptic-floor) at SAT.
-    -   I use the **agility** principles in order to lead the release and the maintainance of our software ecosystem.
-    -   I micro-managed the development tasks from [`Gitlab`](https://about.gitlab.com/).
-    -   I help to architecture all software interactions.
+**You can send me a request in order to schedule a consultation upon your web services**.
+
+
+### **Product Owner** at [The Society for Arts and Technology](https://sat.qc.ca/)
+
+-   I am contributing to the future of [the telepresence scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) and [the haptic floor](https://gitlab.com/sat-mtl/tools/haptic-floor) at SAT.
+-   I use the **agility** principles in order to lead the release and the maintainance of our software ecosystem.
+-   I micro-managed the development tasks from [`Gitlab`](https://about.gitlab.com/).
+-   I help to architecture all software interactions.
 
 
 ## 📇 Keep in touch
@@ -45,52 +47,60 @@ I have studied in computer engineering because I find a great interest in develo
 
 ## ‍💻 Past experiences
 
-1.  **Lead Front-End Developer** at [The Society for Arts and Technology](https://sat.qc.ca/)
 
-    -   I developed *from scratch* the new version of the [Scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) interface that is contributing to [the telepresence ecosystem](https://telepresence-scenic.ca/).
-    -   I contributed to its back-end called [`Switcher`](https://gitlab.com/sat-mtl/tools/switcher) and I developped library of [`UI Components`](https://gitlab.com/sat-mtl/tools/ui-components) for all the web Front-End developed at the SAT.
-    -   I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools.
-    -   In addition, I was **Co-Director** in interim of the departement during few months.
+### **Lead Front-End Developer** at [The Society for Arts and Technology](https://sat.qc.ca/)
 
-2.  **Front-End Developer** at [Trisotech](https://www.trisotech.com/)
+-   I developed *from scratch* the new version of the [Scenic](https://gitlab.com/sat-mtl/tools/scenic/scenic) interface that is contributing to [the telepresence ecosystem](https://telepresence-scenic.ca/).
+-   I contributed to its back-end called [`Switcher`](https://gitlab.com/sat-mtl/tools/switcher) and I developped library of [`UI Components`](https://gitlab.com/sat-mtl/tools/ui-components) for all the web Front-End developed at the SAT.
+-   I leaded the development team at the Valorisation department in order to provide the future of the telepresence tools.
+-   In addition, I was **Co-Director** in interim of the departement during few months.
 
-    -   I developped new features on the [**Digital Modeling Suite**](https://www.trisotech.com/digital-modeling-suite/) by developing some Front-End parts with [`jQuery`](https://jquery.com/)
-    -   I also contributed to Back-End parts with **Java**.
 
-3.  **Developer** at [Butor](http://www.butor.com)
+### **Front-End Developer** at [Trisotech](https://www.trisotech.com/)
 
-    -   I documented all the open-sourced `Javascript` parts with [`JSDoc`](https://jsdoc.app/).
-    -   I improved and analysed the `Java` back-end with my [UML](https://www.uml-diagrams.org/) knowledge.
+-   I developped new features on the [**Digital Modeling Suite**](https://www.trisotech.com/digital-modeling-suite/) by developing some Front-End parts with [`jQuery`](https://jquery.com/)
+-   I also contributed to Back-End parts with **Java**.
 
-4.  **Developer Intern** at [Infineon](https://www.infineon.com/)
 
-    -   I experimented [MVVM patterns](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) with a data viewer written in [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
+### **Developer** at [Butor](http://www.butor.com)
+
+-   I documented all the open-sourced `Javascript` parts with [`JSDoc`](https://jsdoc.app/).
+-   I improved and analysed the `Java` back-end with my [UML](https://www.uml-diagrams.org/) knowledge.
+
+
+### **Developer Intern** at [Infineon](https://www.infineon.com/)
+
+-   I experimented [MVVM patterns](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) with a data viewer written in [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
 
 
 ## 📈 Technology levels
 
 I enumerate all tools I worked with in profesionnal contexts but as I am very curious in all kinds of technologies I am am very motivated to discover and master new tools. I have a strong capacity of **adaptation**.
 
-1.  Expert
 
-    -   🕸 [`Javascript`](https://www.javascript.com/), [`HTML`](https://html.spec.whatwg.org/multipage/) and [`CSS`](https://www.w3.org/Style/CSS/) languages including [`React`](https://reactjs.org/), [`NodeJS`](https://nodejs.org) and [`Webpack`](https://webpack.js.org/) frameworks.
+### Expert
 
-2.  Mastering
+-   🕸 [`Javascript`](https://www.javascript.com/), [`HTML`](https://html.spec.whatwg.org/multipage/) and [`CSS`](https://www.w3.org/Style/CSS/) languages including [`React`](https://reactjs.org/), [`NodeJS`](https://nodejs.org) and [`Webpack`](https://webpack.js.org/) frameworks.
 
-    -   🐋 the [`Docker`](https://www.docker.com/) environment.
-    -   🚀 the [`Gitlab`](https://about.gitlab.com/) platform.
-    -   🐧 the [`Linux`](https://kernel.org/) operating system with the [`Bash`](https://www.gnu.org/software/bash/) scripting. I also use [`MacOS`](https://www.apple.com/ca/macos) systems.
-    -   🐍 the [`Python`](https://www.python.org/) language in a lot of contexts: from back-end services to scripting projects.
 
-3.  Intermediate
+### Mastering
 
-    -   🤖 [the `C` and `C++`](https://en.cppreference.com/w/) languages.
-    -   ☄ [`Java`](https://www.java.com/en/) and [`C#`](https://dotnet.microsoft.com/en-us/) environments.
+-   🐋 the [`Docker`](https://www.docker.com/) environment.
+-   🚀 the [`Gitlab`](https://about.gitlab.com/) platform.
+-   🐧 the [`Linux`](https://kernel.org/) operating system with the [`Bash`](https://www.gnu.org/software/bash/) scripting. I also use [`MacOS`](https://www.apple.com/ca/macos) systems.
+-   🐍 the [`Python`](https://www.python.org/) language in a lot of contexts: from back-end services to scripting projects.
 
-4.  Autodidact
 
-    -   🐄 [`GNU Emacs`](https://www.gnu.org/software/emacs/), [`Visual Studio Code`](https://code.visualstudio.com/) and [`Android Studio`](https://developer.android.com/studio/) editors.
-    -   🦀 the [`Rust`](https://www.rust-lang.org/) language.
-    -   🌺 functionnal languages such as [`Closure Script`](https://clojurescript.org/) and [`Scheme`](http://www.call-cc.org/).
-    -   🏗 the [`NixOS`](https://nixos.org/) operating system.
+### Intermediate
+
+-   🤖 [the `C` and `C++`](https://en.cppreference.com/w/) languages.
+-   ☄ [`Java`](https://www.java.com/en/) and [`C#`](https://dotnet.microsoft.com/en-us/) environments.
+
+
+### Autodidact
+
+-   🐄 [`GNU Emacs`](https://www.gnu.org/software/emacs/), [`Visual Studio Code`](https://code.visualstudio.com/) and [`Android Studio`](https://developer.android.com/studio/) editors.
+-   🦀 the [`Rust`](https://www.rust-lang.org/) language.
+-   🌺 functionnal languages such as [`Closure Script`](https://clojurescript.org/) and [`Scheme`](http://www.call-cc.org/).
+-   🏗 the [`NixOS`](https://nixos.org/) operating system.
 
