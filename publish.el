@@ -36,6 +36,8 @@
 
 (defun me/publish ()
   "Publish the web component with org-publish."
-  (org-publish "cv" t))
+  (delete-file "README.md")
+  (org-publish "cv" t)
+  (copy-file "public/en/Curriculum.md" "README.md" t))
 
 ;;; publish.el ends here
