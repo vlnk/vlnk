@@ -1,0 +1,54 @@
+% set latex font
+\usepackage{fontspec}
+\setmainfont{Fantasque Sans Mono}
+
+% set the page layout
+% https://latex-tutorial.com/cv-latex-guide/
+\usepackage{geometry}
+\geometry{margin=10mm, top=10mm, bottom=10mm}
+
+% change spacing
+\usepackage[nodisplayskipstretch]{setspace}
+\SetSinglespace{0.25}% 1.4/1.2
+\singlespacing
+\pagestyle{empty}
+
+% add emoji support
+% https://github.com/henningpohl/latex-emoji
+\usepackage{latex-emoji/emoji}
+\usepackage{newunicodechar}
+\newunicodechar{✨}{\emoji{2728}}
+\newunicodechar{👋}{\emoji{1F44B}}
+\newunicodechar{💼}{\emoji{1F4BC}}
+\newunicodechar{📇}{\emoji{1F4C7}}
+\newunicodechar{🏫}{\emoji{1F3EB}}
+\newunicodechar{💻}{\emoji{1F4BB}}
+\newunicodechar{📈}{\emoji{1F4C8}}
+\newunicodechar{🕸}{\emoji{1F578}}
+\newunicodechar{🐋}{\emoji{1F40B}}
+\newunicodechar{🚀}{\emoji{1F680}}
+\newunicodechar{🐧}{\emoji{1F427}}
+\newunicodechar{🐍}{\emoji{1F40D}}
+\newunicodechar{🤖}{\emoji{1F916}}
+\newunicodechar{☄}{\emoji{2604}}
+\newunicodechar{🐄}{\emoji{1F404}}
+\newunicodechar{🦀}{\emoji{1F980}}
+\newunicodechar{🌺}{\emoji{1F33A}}
+\newunicodechar{🏗}{\emoji{1F3D7}}
+\newunicodechar{🎶}{\emoji{1F3B6}}
+\newunicodechar{🎥}{\emoji{1F3A5}}
+\newunicodechar{👔}{\emoji{1F454}}
+\newunicodechar{🐭}{\emoji{1F454}}
+\newunicodechar{🌲}{\emoji{1F332}}
+\newunicodechar{👞}{\emoji{1F45E}}
+
+% remove title support
+% https://www.reddit.com/r/orgmode/comments/8e05c2/problems_with_removing_title_from_latex_export/
+\renewcommand\maketitle{}
+
+% remove section numbering
+\setcounter{secnumdepth}{0}
+
+% remove space between lists
+\usepackage{enumitem}
+\setlist{nosep}
