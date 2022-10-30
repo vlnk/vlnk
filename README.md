@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Valentin Laurent!
 
 
-## ✨ **Web Services Consultant** at Numériphare
+## ✨ **Web Services Consultant** at [Numériphare](https://www.numeriphare.com/)
 
 I am providing my services for all kinds of developments around web technologies: [**send me a request in order to schedule a consultation upon your web services**](https://framaforms.org/numeriphare-contact-en-1666988238).
 
