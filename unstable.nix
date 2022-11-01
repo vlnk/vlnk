@@ -4,5 +4,6 @@ mkShell {
   buildInputs = [
     tectonic
     twemoji-color-font
+    entr # https://github.com/eradman/entr/
   ];
 }
