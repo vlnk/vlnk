@@ -1,53 +1,91 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% FILENAME: cv.tex
-% DESCRIPTION: default file for cv/cover generation
-% AUTHOR: vlnk
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\documentclass[11pt,letterpaper,sans]{moderncv}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% CONFIGURATIONS
-\input{packages/packages}
-\input{fonts/fonts}
-\input{icons/icons}
-\input{packages/commands}
-\input{contents/links}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% HEADER
-\input{contents/fr/header}
-
+% Created 2022-11-01 Tue 18:27
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\input{header}
+\author{Valentin Laurent}
+\date{\today}
+\title{👔 Curriculum}
+\hypersetup{
+ pdfauthor={Valentin Laurent},
+ pdftitle={👔 Curriculum},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.1 (Org mode 9.5.5)},
+ pdflang={English}}
 \begin{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% CURRICULUM VITAE
-\makecvtitle
+\maketitle
+\section{👋 Bonjour, je suis Valentin!}
+\label{sec:orgd670c7d}
+\subsection{✨ \textbf{Consultant en Services Web} chez \href{https://www.numeriphare.com/}{Numériphare}}
+\label{sec:orgc5ca54c}
+Je fournis mes services au développement et à la maintenance de technologies web: \textbf{\href{https://framaforms.org/contact-numeriphare-fr-1666985704}{envoyez moi vos demandes afin de planifier ensemble une consultation autour de vos besoins en services web}}. Je veux partager mon expérience du \textbf{développement front-end} sur des projets écrit avec React et une bonne connaissance de la culture logicielle: je peux comprendre and apporter des idées qui feront des \textbf{services web innovants} pour votre communautés et vos clients. J'ai aquis les aptitudes suivantes: de \textbf{la planification agile} jusqu'à la pratique de \textbf{moult languages informatiques} en passant par une grand capacité d'abstraction que j'utilise pour dessiner l'\textbf{architecture de systèmes complexes} que j'aime \textbf{enseigner}.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% STATEMENT
-\input{contents/fr/state}
-\vspace{0.2em}
+\subsection{📇 Me contacter}
+\label{sec:org79fad73}
+\begin{itemize}
+\item \textbf{email}: valentin@numeriphare.com
+\item \textbf{cell}: +1 (514) 992-0600
+\item \textbf{platfomes}:
+\begin{itemize}
+\item 🐭 Github (\url{https://github.com/vlnk})
+\item 🚀 Gitlab (\url{https://gitlab.com/vlnk} and \url{https://gitlab.com/vlaurent})
+\item 🌲 sourcehut (\url{https://sr.ht/\~vlnk/})
+\item 👞 LinkedIn (\url{https://www.linkedin.com/in/valrnt/})
+\end{itemize}
+\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EXPERIENCE
-\input{contents/fr/exp}
+\subsection{🏫 Diplômes}
+\label{sec:org889bc8c}
+\begin{itemize}
+\item \textbf{Maîtrise en Informatique} à l'\href{https://www.uqac.ca/}{Université du Québec à Chicoutimi} (Canada)
+\item \textbf{Ingénieur diplômé} à l'\href{https://www.clermont-auvergne-inp.fr/ecoles/isima/}{Institut Supérieur d’Informatique, de Modélisation et de leurs Applications} (France)
+\end{itemize}
 
-\pagebreak
+\subsection{💻 Éxperiences}
+\label{sec:org9f2dbfc}
+\subsubsection{\textbf{Responsable des Produits} et \textbf{Développeur Front-End Principal} à la \href{https://sat.qc.ca/}{Societé des Arts Technologiques} (\emph{de 2018 à maintenant})}
+\label{sec:org9fb429a}
+Je travail en équipe à aiguiser le futur de la téléprésence Scenic et du plancher haptique en me concentrant sur une qualité prête pour des usages en production. Cet objectif m'a poussé à contribuer à de nombreuses source de code. Tout en assumant un mandat de Co-Direction pendant 3 mois, j'ai exécuté une routine agile dans le but de mener une équipe de testeurs et de développeurs en encourageant ds pratiques logicielles telles que l'intégration continue dans des environnements isolés, les tests unitaires et de la documentation détaillée.
+\emph{(languages et quadriciels utilisés: \texttt{JS/React}, \texttt{SCSS}, \texttt{Python}, \texttt{C/C++}, \texttt{bash}, \texttt{Dockerfile})}
+\subsubsection{\textbf{Développeur Front-End} at \href{https://www.trisotech.com/}{Trisotech}}
+\label{sec:org2ac8e54}
+J'ai développé des améliorations pour \href{https://www.trisotech.com/digital-modeling-suite/}{\textbf{Suite de Modélisation Numérique}} en développant des modules de code Front-End et Back-End.
+\emph{(languages et quadriciels utilisés: \texttt{JS/jQuery}, \texttt{CSS}, \texttt{Java})}
+\subsection{📈 Niveaux de connaissance}
+\label{sec:org9bde4ce}
+\subsubsection{Expert}
+\label{sec:orgdebdeb2}
+\begin{itemize}
+\item 🕸 les languages \href{https://www.javascript.com/}{\texttt{Javascript}}, \href{https://html.spec.whatwg.org/multipage/}{\texttt{HTML}} et \href{https://www.w3.org/Style/CSS/}{\texttt{CSS}} incluant les quadriciels \href{https://reactjs.org/}{\texttt{React}}, \href{https://nodejs.org}{\texttt{NodeJS}} et \href{https://webpack.js.org/}{\texttt{Webpack}}
+\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% EDUCATION
-\input{contents/fr/edu}
+\subsubsection{Maîtrise}
+\label{sec:orgaf4b33e}
+\begin{itemize}
+\item 🐋 les environnements \href{https://www.docker.com/}{\texttt{Docker}} et les outils DevOps et de plannification de la plateforme \href{https://about.gitlab.com/}{\texttt{Gitlab}}
+\item 🐧 le système d'exploitation \href{https://kernel.org/}{\texttt{Linux}} ainsi que les scripts \href{https://www.gnu.org/software/bash/}{\texttt{Bash}}
+\item 🐍 le language \href{https://www.python.org/}{\texttt{Python}} dans différents contextes: de services dorseaux à des projets de scripts
+\item 🤖 les languages \href{https://en.cppreference.com/w/}{\texttt{C\textasciitilde{}/\textasciitilde{}C++}}, \href{https://www.java.com/en/}{\texttt{Java}} et \href{https://dotnet.microsoft.com/en-us/}{\texttt{C\#}}
+\item 📝 les \href{https://www.uml-diagrams.org/}{diagrammes UML} et de noubreux outils et pratiques de documentations
+\end{itemize}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% SKILLS
-% \input{contents/fr/tech}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% HOBBIES
-\input{contents/fr/hobby}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% COVER LETTER
-%\include{contents/fr/covers/eidos}
+\subsubsection{Autodidacte}
+\label{sec:org218a21f}
+\begin{itemize}
+\item 🐄 les éditeurs \href{https://www.gnu.org/software/emacs/}{\texttt{GNU Emacs}} et le système d'exploitation \href{https://nixos.org/}{\texttt{NixOS}}
+\item 🦀 le language \href{https://www.rust-lang.org/}{\texttt{Rust}} et des languages functionnels tels que \href{https://clojurescript.org/}{\texttt{Closure Script}} et \href{http://www.call-cc.org/}{\texttt{Scheme}}
+\item 🎶 \href{https://ardour.org/}{Ardour} and \href{https://mixxx.org/}{Mixxx} pour la production et le mixage de musique électronique
+\item 🎥 \href{https://fountain.io/}{Fountain} and \href{https://www.shotcut.org/}{Shotcut} pour l'écriture et l'édition de films
+\end{itemize}
 \end{document}

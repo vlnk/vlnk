@@ -1,6 +1,6 @@
 % set latex font
 \usepackage{fontspec}
-\setmainfont{Fantasque Sans Mono}
+%\setmainfont{Fantasque Sans Mono}
 
 % set the page layout
 % https://latex-tutorial.com/cv-latex-guide/
@@ -15,8 +15,9 @@
 
 % add emoji support
 % https://github.com/henningpohl/latex-emoji
-\usepackage{latex-emoji/emoji}
+\usepackage[android]{latex-emoji/emoji}
 \usepackage{newunicodechar}
+
 \newunicodechar{✨}{\emoji{2728}}
 \newunicodechar{👋}{\emoji{1F44B}}
 \newunicodechar{💼}{\emoji{1F4BC}}
@@ -41,6 +42,7 @@
 \newunicodechar{🐭}{\emoji{1F454}}
 \newunicodechar{🌲}{\emoji{1F332}}
 \newunicodechar{👞}{\emoji{1F45E}}
+\newunicodechar{📝}{\emoji{1F4DD}}
 
 % remove title support
 % https://www.reddit.com/r/orgmode/comments/8e05c2/problems_with_removing_title_from_latex_export/
