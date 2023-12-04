@@ -1,12 +1,6 @@
 
 # 👋 Hi, I'm Valentin Laurent!
 
-
-## ✨ **Web Services Consultant** at [Numériphare](https://www.numeriphare.com/)
-
-I am providing my services for all kinds of developments around web technologies: [**send me a request in order to schedule a consultation upon your web services**](https://framaforms.org/numeriphare-contact-en-1666988238).
-
-
 ## 📇 Find me on other platfoms
 
 -   🐭 [Github](https://github.com/vlnk), check [my public metrics](https://metrics.lecoq.io/insights/vlnk)!
@@ -72,12 +66,3 @@ I worked with a lot of tools in profesionnal contexts and as a curious developer
 ### Intermediate
 
 -   🤖 [`C/C++`](https://en.cppreference.com/w/), [`Java`](https://www.java.com/en/) and [`C#`](https://dotnet.microsoft.com/en-us/) languages
-
-
-### Autodidact
-
--   🐄 [`GNU Emacs`](https://www.gnu.org/software/emacs/) editor and the [`NixOS`](https://nixos.org/) operating system
--   🦀 the [`Rust`](https://www.rust-lang.org/) language and some functionnal languages such as [`Closure Script`](https://clojurescript.org/) and [`Scheme`](http://www.call-cc.org/)
--   🎶 [Ardour](https://ardour.org/) and [Mixxx](https://mixxx.org/) for electronic music production and djing
--   🎥 [Fountain](https://fountain.io/) and [Shotcut](https://www.shotcut.org/) for screenwriting and movie edition
-
